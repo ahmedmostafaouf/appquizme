@@ -2,7 +2,7 @@
   "name": "quize-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ahmedmostafaouf.github.io/",
+  "homepage": "https://ahmedmostafaouf.github.io/appquizme",
   "dependencies": {
     "@mdi/font": "^4.4.95",
     "@testing-library/jest-dom": "^5.11.6",
